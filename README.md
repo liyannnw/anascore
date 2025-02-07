@@ -102,3 +102,5 @@ Each analogy is labeled with the following categories:
 
 
 The annotated data is available on Huggingface ([liyannn/sentence_analogy](https://huggingface.co/datasets/liyannn/sentence_analogy)).
+
+## Citation
